@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package HWIter;
+package hw04menus;
 
 import java.util.Scanner;
 
@@ -11,16 +11,18 @@ import java.util.Scanner;
  *
  * @author Gabriel
  */
-public class HW03 {
+public class HW04Menus {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-         Scanner input = new Scanner(System.in);
-        boolean mainLoop = true;
-        int option;
+        
+        
+    Scanner input = new Scanner (System.in);
+    boolean mainLoop = true;
+    int option ;
         
         do {
             System.out.println("====Calculator of area====");
@@ -87,17 +89,9 @@ public class HW03 {
     }
         
    
-} while (option != 5);
+} while (option != 4);
         
 }
 
+    
 }
-         
-         
-         
-       
-         
-         
-         
-        
-         

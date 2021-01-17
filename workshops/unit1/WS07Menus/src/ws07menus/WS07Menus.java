@@ -24,7 +24,7 @@ public class WS07Menus {
         int option;
         
         do {
-            System.out.println("====Calculator====");
+            System.out.println("====area of ​​basic geometric figures====");
             System.out.println(" 1 --> Addition");
             System.out.println(" 2 --> Subtraction");
             System.out.println("3 --> Multiplication");
