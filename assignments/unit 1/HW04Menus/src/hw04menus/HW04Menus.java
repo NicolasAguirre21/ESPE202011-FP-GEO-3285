@@ -87,9 +87,7 @@ public class HW04Menus {
                     break;
       
     }
-        
-   
-} while (option != 4);
+        } while (option != 4);
         
 }
 
