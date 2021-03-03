@@ -25,6 +25,16 @@ public class HW04Menus {
     int option ;
         
         do {
+            final float pi =3.14f;
+       final float g = 9.8f;
+       
+  
+       
+       System.out.println("pi----" +pi);
+       System.out.println("g----" +g);
+        
+       System.out.println("pi----" +pi);
+       System.out.println("g----" +g);
             System.out.println("====Calculator of area====");
             System.out.println(" 1 --> rectangle area");
             System.out.println(" 2 --> Triangle area");

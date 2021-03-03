@@ -95,3 +95,35 @@ public class WS09LogicalOperators {
     }
     
 }
+  int[] monthsOfTheYear;
+        String[] months;
+        float[] weightsByYear;
+        Scanner input = new Scanner(System.in);
+        int n;
+        System.out.println("Enter the name of coops---");
+                n = input.nextInt();
+                n = 5;
+            
+        monthsOfTheYear = new int[12];
+        months = new String[24];
+        weightsByYear = new float[12];
+        
+        monthsOfTheYear[0] = 7;
+        monthsOfTheYear[1] = 7;
+        monthsOfTheYear[0] = 7;
+        monthsOfTheYear[0] = 7;
+        monthsOfTheYear[0] = 7;
+        monthsOfTheYear[0] = 7;
+        monthsOfTheYear[0] = 7;
+        
+        for(int i = 0 ; i < n ; i++){
+             System.out.print("Enter the name of coops---" + (i+1) );
+             eggsByCoop[1] = input.nextInt();
+        }
+            
+        for(int egss : eggsByCoop){
+            System.out.print("EGGS OF COOP ARE " + eggs);
+            
+        }
+        for(int i = 0 ; i < n ; i++){
+            System.out.print("EGGS OF COOP ARE " + (i+1) );
