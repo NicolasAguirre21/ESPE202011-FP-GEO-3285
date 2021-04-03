@@ -1,0 +1,8 @@
+
+Chevrolet Camaro , 12000 , good , spacious , new
+Chevrolet , 12000 , good , spacious , new
+Chevrolet , 12000 , Good , Spaciou , New
+Chevrolet , 12000 , Good , Spacious , New
+Chevrolet , 12000 , Good , Spacious , New
+Chevrolet Camaro , 12000 , Good , Spacious , New
+Grand vitara 5p , 20000 , Good , Spacious , new
